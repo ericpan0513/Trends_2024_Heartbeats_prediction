@@ -67,13 +67,15 @@ After setting up Sagemaker, Kinesis and Lambda, we can navigate to AWS CloudWatc
 <img width="984" alt="Screenshot 2023-12-06 180549" src="https://github.com/ericpan0513/Trends_2024_Heartbeats_prediction/assets/67946408/2c1870fc-aa91-42ef-9b0e-650ccf6e88a6">
 
 ## Project Deliveries
-#### Project Video
-Here's the youtube link for our presentation:  
-https://www.youtube.com/watch?v=fpeDhbenfug 
-#### Project Flyer
-[See `flyer.pdf`](https://github.com/ericpan0513/Trends_2024_Heartbeats_prediction/blob/main/Flyer.pdf)
-
+Here's the link for our presentation:  
+#### Video
+[`Video`](https://www.youtube.com/watch?v=fpeDhbenfug)
+#### Flyer
+[`flyer.pdf`](https://github.com/ericpan0513/Trends_2024_Heartbeats_prediction/blob/main/Flyer.pdf)  
+#### Slides  
+[`Trends_slides.pdf`](https://github.com/ericpan0513/Trends_2024_Heartbeats_prediction/blob/main/Trends_slides.pdf)
 
 ## Reference
 1. https://medium.com/@lukekerbs/real-time-anomaly-detection-with-aws-sagemaker-kinesis-streams-214173b0b0e1
 2. https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-deployment.html
+3. https://aws.amazon.com/tw/blogs/architecture/realtime-in-stream-inference-kinesis-sagemaker-flink/
