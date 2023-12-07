@@ -23,11 +23,12 @@ Result Monitoring: Leveraging AWS CloudWatch, we construct a user-friendly, real
 
 Our project has a wide range of applications in various industries. Some of the industries are health care, sports, fitness, insurance, and many more. These insights can be used to improve products and services, reduce costs, and increase revenue.
 
+# Getting Started
 ## Dataset
-We are using the MIT-BIH Arrhythmia Dataset:   
+We are using the MIT-BIH Arrhythmia Dataset.  
+First, download the dataset from:  
 https://www.kaggle.com/datasets/shayanfazeli/heartbeat/data
 
-# Getting Started
 ## Setup instruction
 Using the code file in this repository, the following gives the instruction on how to set up the project based on AWS.  
 
@@ -70,7 +71,8 @@ After setting up Sagemaker, Kinesis and Lambda, we can navigate to AWS CloudWatc
 Here's the youtube link for our presentation:  
 https://www.youtube.com/watch?v=fpeDhbenfug 
 #### Project Flyer
-See `flyer.pdf`
+[See `flyer.pdf`](https://github.com/ericpan0513/Trends_2024_Heartbeats_prediction/blob/main/Flyer.pdf)
+
 
 ## Reference
 1. https://medium.com/@lukekerbs/real-time-anomaly-detection-with-aws-sagemaker-kinesis-streams-214173b0b0e1
