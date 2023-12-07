@@ -1,4 +1,6 @@
 # Trends_2024_Heartbeats_prediction
+*This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota.*
+
 ## Project Overview
 Even though the healthcare industry generates huge volumes of data on a daily basis that can be utilized in many ways to improve the healthcare industry, it fails to fully utilize it due to issues with its usability. Yet there are a significant number of areas where the healthcare industry is continuously utilizing big data.
 
